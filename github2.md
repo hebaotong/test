@@ -21,3 +21,4 @@ New organization     创建组织
 18.git mv []file-origin] [file-renamed]  
 19.git commit -m [message]  
 20.git commit -a -m [message]
+  
